@@ -15,7 +15,7 @@ Aspiring Software Engineer | Java | Full Stack | AI & ML Enthusiast
 - 🔭 Currently working on **AI & Full Stack Projects**
 - 🌱 Learning **Java, Spring Boot, Web Development & Machine Learning**
 - 💬 Ask me about **Java, DSA, Web Dev**
-- ⚡ Goal: **Product-based company placement**
+
 
 ---
 
